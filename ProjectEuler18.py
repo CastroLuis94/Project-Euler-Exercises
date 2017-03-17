@@ -1,3 +1,4 @@
+###Se necesitan los numeros de numeros.txt
 archivo = open("numeros.txt", "r")
 contenido = archivo.read()
 
